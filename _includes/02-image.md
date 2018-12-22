@@ -1,1 +1,1 @@
-[Image of Tanvi](wwww.google.com)
+[Image of Tanvi](https://octodex.github.com/images/yaktocat.png)
